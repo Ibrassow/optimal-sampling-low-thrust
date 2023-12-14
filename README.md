@@ -2,6 +2,7 @@
 
 Group: Ibrahima, Juan, Nayana, Fausto
 
+Finam report: https://drive.google.com/file/d/1PTZc9Sl97MjSKvq5S3sFOHdUj97W1TjP/view?usp=sharing 
 Presentation: https://docs.google.com/presentation/d/1NIKLd9NjFxcs-A3EObMwHn_rSwJb_773/edit?usp=sharing&ouid=109638445335937349831&rtpof=true&sd=true 
 
 For our project, we would like to design and generate a low-thrust trajectory for a spacecraft orbital transfer (i.e. GEO to GTO transfer maneuver)[1]. This problem presents extensive challenges as the dynamics are highly nonlinear, the spacecraft has little control authority (several orders of magnitude difference compared to traditional chemically propelled trajectory), and is typically underactuated. Furthermore, those trajectories span over weeks and months involving a significant problem size and potential numerical difficulties.
